@@ -132,7 +132,7 @@ This project provided practical experience with:
 
 ## Author
 
-**Preetha**
+**Preetha Maria Rosalind Subramani**
 
 GitHub: [@preetha-codes](https://github.com/preetha-codes)
 
