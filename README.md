@@ -24,6 +24,16 @@ Managing student records manually can become time-consuming, especially when inf
 - **Sort Records:** Arrange students according to marks in descending order.
 - **File Storage:** Save and retrieve student records using a local text file.
 
+
+## Application Preview
+
+### Student Records
+
+The application displays student information in an organised table, including student IDs, names, courses, marks, and grades.
+
+![Student Records Screenshot](screenshots/student-records.png)
+
+
 ## Technologies Used
 
 | Technology | Purpose |
