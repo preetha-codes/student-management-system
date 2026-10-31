@@ -25,13 +25,26 @@ Managing student records manually can become time-consuming, especially when inf
 - **File Storage:** Save and retrieve student records using a local text file.
 
 
+
 ## Application Preview
 
-### Student Records
+### 1. Student Records
 
-The application displays student information in an organised table, including student IDs, names, courses, marks, and grades.
+Displays all registered students in an organised table with their IDs, names, courses, marks, and grades.
 
-![Student Records Screenshot](screenshots/student-records.png.png)
+![Student Records](screenshots/student-records.png.png)
+
+### 2. Class Statistics
+
+Calculates the class average, highest and lowest marks, pass count, and overall pass percentage.
+
+![Class Statistics](screenshots/class-statistics.png)
+
+### 3. Top Performer
+
+Identifies the student with the highest marks and displays their complete academic record.
+
+![Top Performer](screenshots/top-performer.png)
 
 
 ## Technologies Used
