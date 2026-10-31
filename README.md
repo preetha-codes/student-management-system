@@ -31,7 +31,7 @@ Managing student records manually can become time-consuming, especially when inf
 
 The application displays student information in an organised table, including student IDs, names, courses, marks, and grades.
 
-![Student Records Screenshot](screenshots/student-records.png)
+![Student Records Screenshot](screenshots/student-records.png.png)
 
 
 ## Technologies Used
